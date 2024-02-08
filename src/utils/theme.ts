@@ -4,5 +4,6 @@ export const THEME = {
     secondary: '#424242',
     white: '#FFFFFF',
     black: '#000000',
+    lightGrey: '#D3D3D3',
   },
 };

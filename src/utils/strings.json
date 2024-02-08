@@ -1,3 +1,9 @@
 {
-  "upstox_holding": "Upstox Holding"
+  "upstox_holding": "Upstox Holding",
+  "ltp": "LTP",
+  "pnl": "P/L",
+  "profit_and_loss": "Profit & Loss",
+  "todays_pnl": "Today's Profit & Loss",
+  "current_value": "Current Value",
+  "total_inversted_value": "Total Investment",
 }
